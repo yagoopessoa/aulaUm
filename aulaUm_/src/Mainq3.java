@@ -1,5 +1,5 @@
-/*
-public class Mainq3 {
+
+public class MainQ3 {
     public static void main(String[] args) {
         double nota1 = 7.5;
         double nota2 = 6.6;
@@ -19,4 +19,3 @@ public class Mainq3 {
 }
 
 
- */

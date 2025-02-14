@@ -1,4 +1,4 @@
-/* public class Mainq1 {
+public class MainQ1 {
     public static void main(String[] args) {
 
         double horaSalario = 15.0;
@@ -17,7 +17,6 @@
 
 
     }
-}
 
 
- */
+
